@@ -1,7 +1,5 @@
 ### Hi! I'm Syerli 👋
 
-- 🔭 I'm currently fresh graduate from Vocational High School Telkom Malang
-- 🌱 I’m currently learning about Reactjs
 - 📫 How to reach me: syerlitrinadya.id@gmail.com
 
 ### Github Statistic
